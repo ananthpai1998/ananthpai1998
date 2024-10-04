@@ -1,4 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ananth Karkala Pai</h1> <h3 align="center">ML Engineer | Web Developer | Cloud Computing Enthusiast | Passionate About Creating Scalable AI and Web Solutions</h3> <p align="left"> <img src="https://komarev.com/ghpvc/?username=ananthpai1998&label=Profile%20views&color=0e75b6&style=flat" alt="ananthpai1998" /> </p> <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ananthpai1998" alt="ananthpai1998" /></a> </p>
+
 🔭 I’m currently working on exciting ML and cloud-based projects (details coming soon)
 
 🌱 I’m pursuing an M.S. in Intelligent Systems Engineering, specializing in Computer Engineering, to deepen my knowledge of Applied ML, LLM research, and Web Development
