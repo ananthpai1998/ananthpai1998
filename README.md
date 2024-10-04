@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ananth Karkala Pai</h1>
-<h3 align="center">ML Engineer | Cloud Computing Enthusiast | Salesforce Developer | Passionate about Building Scalable AI Solutions in the Cloud</h3>
+<h3 align="center">Web Developer evolved into Data Engineer, now crafting AI/ML solutions | Passionate about Building Scalable AI Solutions in the Cloud</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ananthpai1998&label=Profile%20views&color=0e75b6&style=flat" alt="ananthpai1998" /> </p>
 
