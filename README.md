@@ -5,11 +5,75 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ananthpai1998" alt="ananthpai1998" /></a> </p>
 
-- 🔭 I’m currently working on [Project link will be made available soon](Project link will be made available soon)
+- 🔭 I’m currently working on 3 hobby projects.
+   1. Developing stock trading 
 
-- 🌱 I’m currently pursuing **M.S in Intelligent Systems Engineering with Computer Engineering Specilization to gain expertise in different areas of applied ML and ML & LLM research.**
+- 🌱 I’m currently pursuing **M.S in Intelligent Systems Engineering with Computer Engineering Specilization** to gain expertise in different areas of applied ML and LLM research.
 
-- 👯 I’m looking to collaborate on [developing stock trading environment to develop Re-inforcement and Deep Learning solutions for automated trading strategy and risk management and automated portfolio manganagement.](https://github.com/ananthpai1998/Reinforcement-Learning-Portfolio)
+# Current Projects - Open for Collaboration
+
+## 1. Stock Trading Environment for AI Algorithm Development
+
+**Aim:**
+
+- Develop a robust trading platform that provides an AI agent with the same data access and experience as a day trader. This includes data from various sources such as market sentiment, current news, company financials, and stock prices to help the agent make decisions (buy/hold/sell) and develop advanced trading strategies.
+- Utilize this environment to design advanced AI/ML algorithms for sophisticated trading strategies.
+
+**Current Status:**
+
+- **Prototype:** A simplified working prototype for handling financial data is complete.
+- **Algorithm:** Implemented an LSTM PPO algorithm for stock trading decision-making (buy/hold/sell).
+
+**Areas of Expertise Needed:**
+
+- AI/ML, Stock Market Data Ingestion, Reinforcement Learning, Algorithm Design.
+
+**Project Repo:** [Add project repo link here]
+
+---
+
+## 2. Website Document Generation and Structure Analytics with Knowledge Graphs
+
+**Aim:**
+
+- Generate documentation for websites automatically.
+- Analyze the website's structure using the generated documentation and suggest improvements to optimize API calls, modularize code, enhance reusability and maintainability, and improve security.
+- Implement identified improvements based on the analysis.
+
+**Current Status:**
+
+- **Documentation:** Successfully generated website documentation.
+- **Analysis:** Currently working on structural analysis for optimization.
+- **Improvements:** Yet to start implementing suggested improvements.
+
+**Areas of Expertise Needed:**
+
+- Knowledge Graphs, Web Development, LLM, NLP, Code Optimization.
+
+**Project Repo:** [Add project repo link here]
+
+---
+
+## 3. Voice Analytics for Early Detection of Brain Degenerative Diseases
+
+**Aim:**
+
+- Develop software that accurately detects early onset of brain degenerative diseases using voice analysis.
+
+**Current Status:**
+
+- **Stage:** Ideation phase.
+
+**Areas of Expertise Needed:**
+
+- Speech Processing, Speech Analytics, Deep Learning, Software Development, Data Analytics.
+
+**Project Repo:** [Add project repo link here]
+
+---
+
+Feel free to reach out if you're interested in collaborating on any of these projects!
+
 
 - 👨‍💻 All of my projects are available at [https://github.com/ananthpai1998](https://github.com/ananthpai1998)
 
