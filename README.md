@@ -5,10 +5,8 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ananthpai1998" alt="ananthpai1998" /></a> </p>
 
-- 🔭 I’m currently working on 3 hobby projects.
-   1. Developing stock trading 
 
-- 🌱 I’m currently pursuing **M.S in Intelligent Systems Engineering with Computer Engineering Specilization** to gain expertise in different areas of applied ML and LLM research.
+- 🌱 I’m currently pursuing **M.S in Intelligent Systems Engineering with Computer Engineering Specialization** to gain expertise in different areas of applied ML and LLM research.
 
 # Current Projects - Open for Collaboration
 
