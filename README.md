@@ -69,7 +69,7 @@ Trading Algorithm: https://github.com/ananthpai1998/Reinforcement-Learning-Portf
 - Speech Processing, Speech Analytics, Deep Learning, Software Development, Data Analytics.
 
 **Project Repo:** 
-This project is currently private. Please feel free to ping to get more details :)
+This project is currently private. Please feel free to ping me for more details :)
 
 ---
 
