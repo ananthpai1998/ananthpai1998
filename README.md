@@ -26,7 +26,9 @@
 
 - AI/ML, Stock Market Data Ingestion, Reinforcement Learning, Algorithm Design.
 
-**Project Repo:** [Add project repo link here]
+**Project Repo:** 
+Trading Environment: https://github.com/ananthpai1998/Reinforcement-Learning-Portfolio/tree/master/stock_trading_ENV_development
+Trading Algorithm: https://github.com/ananthpai1998/Reinforcement-Learning-Portfolio/tree/master/stock-trading-ppo-lstm
 
 ---
 
