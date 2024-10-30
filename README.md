@@ -96,49 +96,37 @@ Feel free to reach out if you're interested in collaborating on any of these pro
 
 <h3 align="left">AI/ML</h3>
 <p align="left">
-<img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="TensorFlow" width="40" height="40"/>
-<img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="PyTorch" width="40" height="40"/>
-<img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="Scikit-learn" width="40" height="40"/>
-<img src="https://www.vectorlogo.zone/logos/apache_spark/apache_spark-ar21.svg" alt="PySpark" width="40" height="40"/>
-<img src="https://www.vectorlogo.zone/logos/apache_hadoop/apache_hadoop-icon.svg" alt="Hadoop" width="40" height="40"/>
+  <img src="https://skillicons.dev/icons?i=tensorflow,pytorch,sklearn,python" alt="AI/ML Skills" />
 </p>
 
 <h3 align="left">Cloud</h3>
 <p align="left">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="AWS" width="40" height="40"/>
-<img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="GCP" width="40" height="40"/>
-<img src="https://assets.vercel.com/image/upload/v1607554385/repositories/vercel/logo.png" alt="Vercel" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="Docker" width="40" height="40"/>
-<img src="https://www.vectorlogo.zone/logos/apache_airflow/apache_airflow-icon.svg" alt="Apache Airflow" width="40" height="40"/>
+  <img src="https://skillicons.dev/icons?i=aws,gcp,azure,docker,kubernetes" alt="Cloud Skills" />
 </p>
 
 <h3 align="left">Salesforce</h3>
 <p align="left">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/salesforce/salesforce-original.svg" alt="Salesforce" width="40" height="40"/>
+  <img src="https://skillicons.dev/icons?i=salesforce" alt="Salesforce Skills" />
 </p>
 
 <h3 align="left">Languages</h3>
 <p align="left">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="SQL" width="40" height="40"/>
-<img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="Next.js" width="40" height="40"/>
-<img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="Tailwind CSS" width="40" height="40"/>
+  <img src="https://skillicons.dev/icons?i=python,java,js,ts,html,css" alt="Language Skills" />
+</p>
+
+<h3 align="left">Frameworks</h3>
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,express,tailwind" alt="Framework Skills" />
 </p>
 
 <h3 align="left">Database</h3>
 <p align="left">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="SQL" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="MongoDB" width="40" height="40"/>
-<img src="https://dist.neo4j.com/wp-content/uploads/20210423072428/neo4j-logo-2020-1.svg" alt="Neo4j" width="40" height="40"/>
+  <img src="https://skillicons.dev/icons?i=mysql,mongodb,postgresql,redis" alt="Database Skills" />
 </p>
 
 <h3 align="left">Tools</h3>
 <p align="left">
-<img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="40" height="40"/>
-<img src="https://wac-cdn.atlassian.com/assets/img/favicons/atlassian/favicon.png" alt="JIRA" width="40" height="40"/>
-<img src="https://wac-cdn.atlassian.com/assets/img/favicons/confluence/favicon.png" alt="Confluence" width="40" height="40"/>
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,linux" alt="Tool Skills" />
 </p>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ananthpai1998&show_icons=true&locale=en&layout=compact" alt="ananthpai1998" /></p>
