@@ -111,7 +111,7 @@ Feel free to reach out if you're interested in collaborating on any of these pro
 
 <h3 align="left">Languages</h3>
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=python,java,js,ts,html,css" alt="Language Skills" />
+  <img src="https://skillicons.dev/icons?i=python,java,js,ts,html,CSS,matplotlib" alt="Language Skills" />
 </p>
 
 <h3 align="left">Frameworks</h3>
@@ -121,7 +121,7 @@ Feel free to reach out if you're interested in collaborating on any of these pro
 
 <h3 align="left">Database</h3>
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=mysql,mongodb,postgresql,redis" alt="Database Skills" />
+  <img src="https://skillicons.dev/icons?i=mysql,mongodb,postgresql" alt="Database Skills" />
 </p>
 
 <h3 align="left">Tools</h3>
